@@ -3,7 +3,6 @@
   Place this file at: .github/profile/README.md
 -->
 
-<h1 align="center">ZAMZAM3</h1>
 <h3 align="center">Building at the intersection of AI, Blockchain & Fintech</h3>
 
 <p align="center">
