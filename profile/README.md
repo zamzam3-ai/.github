@@ -3,10 +3,6 @@
   Place this file at: .github/profile/README.md
 -->
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/267474563?s=400&u=b929f857c87c649d425815a976accdf143f4025e&v=4" width="72" alt="Zamzam3 logo" />
-</p>
-
 <h1 align="center">ZAMZAM3</h1>
 <h3 align="center">Building at the intersection of AI, Blockchain & Fintech</h3>
 
